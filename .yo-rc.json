@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "banner",
+    "libraryId": "27659059-c004-4204-b504-734ded4546b0",
+    "environment": "spo"
+  }
+}
